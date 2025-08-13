@@ -1,0 +1,42 @@
+# Unity generated
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild*/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+UserSettings/
+# IDE
+.vs/
+.vscode/
+.idea/
+# OS
+.DS_Store
+# Visual Studio / Rider
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+# Crashlytics
+crashlytics-build.properties
+# Addressables (generated)
+/Assets/AddressableAssetsData/*/addressables_content_state.bin
+# TextMeshPro
+/Assets/TextMesh Pro/Resources/Fonts & Materials/*.asset.meta
+# Gradle / Android
+.gradle/
+**/gradle.properties
+# Xcode / iOS
+*.xcworkspace/
+*.xcuserstate
+*.xcuserdata/
+# Unity Cloud
+UnityPackageManager/
+# 追加で除外したいものがあれば下に追記

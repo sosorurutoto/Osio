@@ -1,0 +1,4 @@
+repository "スケートラン/スケートラン@15669559938295@cloud"
+  path "/"
+    br "/main"
+    co "/main"
